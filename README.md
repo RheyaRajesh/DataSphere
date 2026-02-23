@@ -1,7 +1,11 @@
-# 🌐 DataSphere - Social Media Database Management System
+<div align="center">
 
-A **Python + MySQL + Tkinter** project that manages social-media-style data — users, posts, comments through a simple graphical interface.  
-It implements **database connectivity**, **CRUD operations**, and **GUI programming** in Python! 🚀
+# 🌐 DataSphere 
+## Social Media Database Management System
+
+A **Python + MySQL + Tkinter** project that manages social-media-style data — users, posts, comments through a simple graphical interface. It implements **database connectivity**, **CRUD operations**, and **GUI programming** in Python! 🚀
+
+</div>
 
 ## 📖 Project Overview
 
